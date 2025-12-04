@@ -1,0 +1,6 @@
+[submodule "microservices/webhook-service"]
+	path = microservices/webhook-service
+	url = git@github.com:JeanCarloRibeiro/tintim-skeleton-webhook-service.git
+[submodule "microservices/processor-service"]
+	path = microservices/processor-service
+	url = git@github.com:JeanCarloRibeiro/tintim-skeleton-processor-service.git
